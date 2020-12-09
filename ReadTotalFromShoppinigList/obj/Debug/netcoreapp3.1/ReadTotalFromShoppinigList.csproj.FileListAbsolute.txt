@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.exe
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.deps.json
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.runtimeconfig.json
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.dll
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.pdb
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.AssemblyInfo.cs
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.dll
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.pdb
+C:\Users\mammu\source\repos\FilesAndObjects\ReadTotalFromShoppinigList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppinigList.genruntimeconfig.cache

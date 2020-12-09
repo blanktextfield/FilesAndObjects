@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.exe
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.deps.json
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.json
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\mammu\source\repos\FilesAndObjects\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.genruntimeconfig.cache
